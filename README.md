@@ -15,6 +15,8 @@ Ejecutar `npm install npm@latest -g` para instalar la última versión de npm
 
 ## Lanzar la aplicación
 
+Ejecutar `npm install` para añadir las dependencias.
+
 1. Para correr la aplicación con service workers. Ir al directorio del proyecto y desde ahí al directorio `dist/`. Ejecutar `http-server -p 4200`. Desde el navegador ir a `http://localhost:4200/`.
 
 2. Para correr la aplicación sin el uso de service workers. Ir al directorio del proyecto. Ejecutar `ng server -p 4200`. Desde el navegador ir a `http://localhost:4200/`.
