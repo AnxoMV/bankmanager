@@ -10,6 +10,8 @@ La aplicación está desplegada en `https://anxomv.github.io/bankmanager/`.
 
 Instalar Node.js. Al instalarlo tendrés instalado en vuestra máquina Node.js y npm.
 
+Ejecutar `npm install npm@latest -g` para instalar la última versión de npm
+
 
 ## Lanzar la aplicación
 
