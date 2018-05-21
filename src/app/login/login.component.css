@@ -40,6 +40,10 @@ body {font-family: Arial, Helvetica, sans-serif;}
     color:#e4333c;
  }
 
+ .informacion {
+   font-size: 1.0;
+ }
+
  @media screen and (max-width: 1100px) {
   .imgcontainer {
     width: 30%;
