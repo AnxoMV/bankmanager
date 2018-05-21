@@ -4,7 +4,14 @@ Con la tecnología Angular se desarrolla una aplicación para la gestión de 
 1. Crear nuevo usuario. Si se hace click sobre el icono de insertar usuario te llevará a una pantalla de ingreso de usuario para meter sus respectivos datos.
 2. Consultar usuario. Si se hace click sobre un cliente se muestra una vista más detallada con la información del cliente en la cual donde se pueden editar y borrar datos. También hay una pestaña llamada cuentas en la que se podrá acceder a la información de cada cuenta.
 
-# Lanzar la aplicación
+## Despliegue de la aplicación
+
+La aplicación está desplegada en `https://anxomv.github.io/bankmanager/`.
+
+Instalar Node.js. Al instalarlo tendrés instalado en vuestra máquina Node.js y npm.
+
+
+## Lanzar la aplicación
 
 1. Para correr la aplicación con service workers. Ir al directorio del proyecto y desde ahí al directorio `dist/`. Ejecutar `http-server -p 4200`. Desde el navegador ir a `http://localhost:4200/`.
 
